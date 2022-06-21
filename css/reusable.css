@@ -9,6 +9,10 @@
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* BODY CONFG*/
 body {
   font-family: 'Be Vietnam Pro', sans-serif;
