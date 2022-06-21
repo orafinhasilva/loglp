@@ -320,7 +320,7 @@ container {
 
 }
 .arrecadado {
-  background-image: url("../imgs/doados2.png");
+  background-image: url("../imgs/doados.gif");
   background-repeat: no-repeat;
   background-size: cover;
   width: 398px;
@@ -672,7 +672,7 @@ footer .logoEmpresa {
   .missao{
     margin: 0;
     font-size:2.3rem;
-    padding: 0rem;
+    padding: 1.2rem;
     text-justify: auto;
     text-align: center;
     justify-content: center;
@@ -771,7 +771,7 @@ footer .logoEmpresa {
     text-align: center;
     font-size: 3.6em;
     font-weight: 900;
-    padding-top: 0.6rem;
+    padding-top: 0.9rem;
   }
   .arrecadado {
     width: 110px;
@@ -781,7 +781,7 @@ footer .logoEmpresa {
     color:#292f55;
     text-align: center;
     font-size: 1.2em;
-    padding-top: 3.4rem;
+    padding-top: 3.9rem;
     font-weight: 900;
   }
   .box1 {
